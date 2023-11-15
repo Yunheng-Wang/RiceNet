@@ -1,0 +1,35 @@
+metadata_version: 1
+name: 'RiceNet: A Deep Convolutional Neural Network for Rice Grain Classification'
+description: A Deep Convolutional Neural Network for Rice Grain Classification has
+  been developed for the identification of five varieties of paady rice.
+authors:
+- name: Nusrat Mohi ud din
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora,Kashmir
+- name: Assif Assad
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora,Kashmir
+- name: Rayees Ahmad Dar
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora,Kashmir
+- name: Muzafar Rasool
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora,Kashmir
+- name: Saqib Ul Sabha
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora,Kashmir
+- name: Tabasum Majeed
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora,Kashmir
+- name: Zahir Ul Islam
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora, Kashmir
+- name: Wahid Gulzar
+  affiliations:
+  - name: '{Islamic University of Science and Technology Awantipora, Kashmir'
+- name: Aamir Yaseen
+  affiliations:
+  - name: Islamic University of Science and Technology Awantipora, kashmir
+corresponding_contributor:
+  name: Rayees Ahmad Dar
+  email: darrayes@gmail.com
